@@ -182,7 +182,7 @@ No automated tests ship with the project yet; consider adding integration tests 
 Route to the frontend via the Qualtrics questionnaire. The URL should be constructed as follows:
 
 ```
-https://el-ui-lab.vercel.app/?PROLIFIC_PID=marcymarc&CIVILITY_MODE=uncivil&SCENARIO=lost_card&ADVICE_CONDITION=process
+https://el-ui-lab.vercel.app/?PROLIFIC_PID=test-user&CIVILITY_MODE=uncivil&SCENARIO=lost_card&ADVICE_CONDITION=process
 ```
 
 The values are stored in `sessionStorage` and forwarded to the Pipecat session request.
