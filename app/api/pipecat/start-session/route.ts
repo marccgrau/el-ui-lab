@@ -16,9 +16,7 @@ export async function POST(req: NextRequest) {
       },
       body: JSON.stringify({
         createDailyRoom: true,
-        dailyRoomProperties: {
-          enable_recording: 'cloud',
-        },
+        dailyRoomProperties: {},
         body,
       }),
       // **IMPORTANT**: revalidate:"no-store" prevents caching in Next.js
