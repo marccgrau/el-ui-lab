@@ -25,9 +25,9 @@ export function ConnectButton() {
           endpoint: '/api/pipecat/start-session',
           requestData: {
             prolific_pid: sessionStorage.getItem('PROLIFIC_PID'),
-            emotion_condition: sessionStorage.getItem('EMOTION_CONDITION'),
+            civility_mode: sessionStorage.getItem('CIVILITY_MODE'),
             advice_condition: sessionStorage.getItem('ADVICE_CONDITION'),
-            scenario: sessionStorage.getItem('SCENARIO_CONDITION'),
+            scenario: sessionStorage.getItem('SCENARIO'),
           },
         });
       }

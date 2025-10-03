@@ -14,9 +14,9 @@ export default function Home() {
   const params = useSearchParams();
 
   const prolificPid = params.get('PROLIFIC_PID');
+  const civilityMode = params.get('CIVILITY_MODE');
   const adviceCondition = params.get('ADVICE_CONDITION');
-  const emotionCondition = params.get('EMOTION_CONDITION');
-  const scenarioCondition = params.get('SCENARIO_CONDITION');
+  const scenarioCondition = params.get('SCENARIO');
 
   /* ────────────────────────────────────────────────────────────────
      ②  Stash them in sessionStorage (once)
@@ -27,11 +27,10 @@ export default function Home() {
     if (prolificPid) sessionStorage.setItem('PROLIFIC_PID', prolificPid);
     if (adviceCondition)
       sessionStorage.setItem('ADVICE_CONDITION', adviceCondition);
-    if (emotionCondition)
-      sessionStorage.setItem('EMOTION_CONDITION', emotionCondition);
+    if (civilityMode) sessionStorage.setItem('CIVILITY_MODE', civilityMode);
     if (scenarioCondition)
-      sessionStorage.setItem('SCENARIO_CONDITION', scenarioCondition);
-  }, [prolificPid, adviceCondition, emotionCondition, scenarioCondition]);
+      sessionStorage.setItem('SCENARIO', scenarioCondition);
+  }, [prolificPid, adviceCondition, civilityMode, scenarioCondition]);
 
   /* ────────────────────────────────────────────────────────────────
      ③  Decide where the “Continue” button should lead
