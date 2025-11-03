@@ -7,16 +7,14 @@
   - [1 Identity Verification](#1-identity-verification)
   - [2 Small Estates (\< CHF 20 000)](#2-small-estates--chf-20-000)
   - [3 Legal Guardianship / Custodianship](#3-legal-guardianship--custodianship)
-  - [4 Phone Enquiries from Authorized Third Parties](#4-phone-enquiries-from-authorized-third-parties)
-  - [5 Large Savings Withdrawal](#5-large-savings-withdrawal)
-  - [6 Lost / Stolen Card](#6-lost--stolen-card)
-  - [7 Replacement Card \& Delivery](#7-replacement-card--delivery)
-  - [8 Fees \& PIN Policy](#8-fees--pin-policy)
-  - [9 Multiple Cards Lost Abroad](#9-multiple-cards-lost-abroad)
-  - [10 E-Banking Login Locked](#10-e-banking-login-locked)
-  - [11 International Move \& Mortgage](#11-international-move--mortgage)
-  - [12 Reporting a Death](#12-reporting-a-death)
-  - [13 Investment Advice – First Steps](#13-investment-advice--first-steps)
+  - [4 Large Savings Withdrawal](#4-large-savings-withdrawal)
+  - [5 Lost / Stolen Card](#5-lost--stolen-card)
+  - [6 Replacement Card \& Delivery](#6-replacement-card--delivery)
+  - [7 Fees \& PIN Policy](#7-fees--pin-policy)
+  - [8 Multiple Cards Lost Abroad](#8-multiple-cards-lost-abroad)
+  - [9 E-Banking Login Locked](#9-e-banking-login-locked)
+  - [10 International Move \& Mortgage](#10-international-move--mortgage)
+  - [11 Reporting a Death](#11-reporting-a-death)
 
 </details>
 
@@ -54,17 +52,7 @@
 
 ---
 
-## 4 Phone Enquiries from Authorized Third Parties
-
-1. Check that a valid power of attorney is on file.
-2. Permitted phone information:
-   - Account balance as of a specific date
-   - Balance confirmation letter
-3. Provide statements only after receiving a written proof of legitimate interest.
-
----
-
-## 5 Large Savings Withdrawal
+## 4 Large Savings Withdrawal
 
 _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
@@ -83,7 +71,7 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 ---
 
-## 6 Lost / Stolen Card
+## 5 Lost / Stolen Card
 
 1. **Verify identity** (see Section 1).
 2. Confirm which card type is affected (debit, credit, or both).
@@ -94,7 +82,7 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 ---
 
-## 7 Replacement Card & Delivery
+## 6 Replacement Card & Delivery
 
 1. Ask where the replacement should be sent:
    - Default → registered home address
@@ -108,7 +96,7 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 ---
 
-## 8 Fees & PIN Policy
+## 7 Fees & PIN Policy
 
 | Topic                    | Standard Procedure                                                 |
 | ------------------------ | ------------------------------------------------------------------ |
@@ -117,7 +105,7 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 ---
 
-## 9 Multiple Cards Lost Abroad
+## 8 Multiple Cards Lost Abroad
 
 1. Block **all affected cards** immediately (debit & credit).
 2. Discuss delivery preference for each card (home vs. branch pick-up).
@@ -126,7 +114,7 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 ---
 
-## 10 E-Banking Login Locked
+## 9 E-Banking Login Locked
 
 _(“Too many wrong passwords” – friendly caller)_
 
@@ -148,7 +136,7 @@ _(“Too many wrong passwords” – friendly caller)_
 
 ---
 
-## 11 International Move & Mortgage
+## 10 International Move & Mortgage
 
 _Customer moves from abroad to Country of origin and holds a mortgage._
 
@@ -164,7 +152,7 @@ _Customer moves from abroad to Country of origin and holds a mortgage._
 
 ---
 
-## 12 Reporting a Death
+## 11 Reporting a Death
 
 1. Express condolences.
 2. **Freeze the customer relationship** ("estate liquidation").
@@ -174,21 +162,3 @@ _Customer moves from abroad to Country of origin and holds a mortgage._
 6. Inform heirs about the 31-day notice period for payouts.
 
 ---
-
-## 13 Investment Advice – First Steps
-
-_(Retail customer seeking guidance)_
-
-1. **Triaging**
-   - Simple execution-only orders → **Stock-Exchange Hotline**.
-   - Needs strategy, fund savings plans, retirement funds etc. → book a call with the **Investing** team.
-2. **Products that team covers**
-   - Bank mutual funds, fund savings, fixed-term deposits, managed-portfolio, retirement products.
-3. **Prerequisites for self-directed trading**
-   - Signed custody-account agreement and (for US stocks) W-8 BEN.
-   - Custody account plus funding account enabled in e-banking.
-4. Document the referral and advise the customer of any required forms.
-
----
-
-**Tip:** Use the search bar above to find keywords quickly (e.g. _“PIN change”_ or _“death certificate”_).
