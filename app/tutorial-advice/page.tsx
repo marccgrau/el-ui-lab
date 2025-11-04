@@ -85,7 +85,7 @@ export default function VideoGate() {
 
       <p>Press the play button below to start the video.</p>
 
-      <div className='w-full max-w-5xl aspect-video bg-black rounded-lg overflow-hidden'>
+      <div className='w-full max-w-4xl aspect-video bg-black rounded-lg overflow-hidden'>
         <video
           ref={videoRef}
           src={VIDEO_URL}

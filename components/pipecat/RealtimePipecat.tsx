@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useCallback, useState } from 'react';
+import React, { useCallback, useEffect, useRef, useState } from 'react';
 import {
   useRTVIClientEvent,
   usePipecatClientTransportState,
@@ -32,12 +32,30 @@ interface ServerMessage {
 /* ───── Advice bubble ───── */
 function AdviceBubble() {
   const [advice, setAdvice] = useState<string | null>(null);
+  const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
+
   useRTVIClientEvent(
     RTVIEvent.ServerMessage,
     useCallback((msg: ServerMessage) => {
       const data = msg?.data?.type ? msg.data : msg;
       if (data?.type === 'advice' && typeof data.payload?.text === 'string') {
-        setAdvice(data.payload.text);
+        const incomingAdvice = data.payload.text;
+        if (timeoutRef.current) {
+          clearTimeout(timeoutRef.current);
+        }
+        setAdvice(null);
+        timeoutRef.current = setTimeout(() => {
+          setAdvice(incomingAdvice);
+          timeoutRef.current = null;
+        }, 1000);
       }
     }, [])
   );
