@@ -7,11 +7,11 @@
   - [1 Identity Verification](#1-identity-verification)
   - [2 Small Estates (\< CHF 20 000)](#2-small-estates--chf-20-000)
   - [3 Legal Guardianship / Custodianship](#3-legal-guardianship--custodianship)
-  - [4 Large Savings Withdrawal](#4-large-savings-withdrawal)
-  - [5 Lost / Stolen Card](#5-lost--stolen-card)
+  - [4 Lost / Stolen Card](#4-lost--stolen-card)
+  - [5 Large Savings Withdrawal](#5-large-savings-withdrawal)
   - [6 Replacement Card \& Delivery](#6-replacement-card--delivery)
-  - [7 Fees \& PIN Policy](#7-fees--pin-policy)
-  - [8 Multiple Cards Lost Abroad](#8-multiple-cards-lost-abroad)
+  - [7 Multiple Cards Lost Abroad](#7-multiple-cards-lost-abroad)
+  - [8 Fees \& PIN Policy](#8-fees--pin-policy)
   - [9 E-Banking Login Locked](#9-e-banking-login-locked)
   - [10 International Move \& Mortgage](#10-international-move--mortgage)
   - [11 Reporting a Death](#11-reporting-a-death)
@@ -37,27 +37,38 @@
 
 ## 2 Small Estates (< CHF 20 000)
 
-1. Offer a **letter of indemnity** so funds can be released without probate.
-2. Explain liability waiver and potential risks to heirs.
-3. Payout or close the account only when **all heirs have signed**.
+1. Offer a **letter of indemnity**, that protects one party in a transaction from financial loss, so funds can be released without probate.
+2. Mention liability waiver and potential risks to heirs.
+3. Indicate that payout or closing of the account happens only when **all heirs have signed**.
 
 ---
 
 ## 3 Legal Guardianship / Custodianship
 
 1. On first notification, immediately **freeze the account** (same as Section 6).
-2. Request written proof of guardianship.
-3. Once proof is received, update records and lift the freeze.
+2. Request written proof of guardianship to be sent.
+3. Inform that once proof is received, records are updated and the lift is unfrozen.
 4. Repeat the process if the guardian changes.
 
 ---
 
-## 4 Large Savings Withdrawal
+## 4 Lost / Stolen Card
+
+1. **Verify identity** (see Section 1).
+2. Confirm which card type is affected (debit, credit, or both).
+3. Immediately **permanently block** the card.
+   - Do **not** use temporary blocks for lost cards.
+4. Reassure the customer that no further transactions are possible.
+5. Ask whether they would like a replacement card (see Section 7).
+
+---
+
+## 5 Large Savings Withdrawal
 
 _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 1. **Explain the rules**
-   - Amounts above the monthly _Rückzugslimite_ require a **notice (Betragskündigung)**.
+   - Amounts above the monthly withdrawal limit require a **notice** from the customer.
    - Minimum notice = 31 days; notice stays valid **60 days** from the chosen start date.
 2. **Two customer options**
 
@@ -68,17 +79,6 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 3. Warn that exceeding the limit online will trigger the same fee automatically (shown in e-banking).
 4. Record the customer’s choice and set the notice or execute the transfer with fee.
-
----
-
-## 5 Lost / Stolen Card
-
-1. **Verify identity** (see Section 1).
-2. Confirm which card type is affected (debit, credit, or both).
-3. Immediately **permanently block** the card.
-   - Do **not** use temporary blocks for lost cards.
-4. Reassure the customer that no further transactions are possible.
-5. Ask whether they would like a replacement card (see Section 7).
 
 ---
 
@@ -96,7 +96,16 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 ---
 
-## 7 Fees & PIN Policy
+## 7 Multiple Cards Lost Abroad
+
+1. Block **all affected cards** immediately (debit & credit).
+2. Discuss delivery preference for each card (home vs. branch pick-up).
+3. Explain emergency cash options provided by the credit-card partner (extra emergency fee of 2.5%)
+4. Summarize next steps and confirm completion.
+
+---
+
+## 8 Fees & PIN Policy
 
 | Topic                    | Standard Procedure                                                 |
 | ------------------------ | ------------------------------------------------------------------ |
@@ -105,24 +114,15 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 ---
 
-## 8 Multiple Cards Lost Abroad
-
-1. Block **all affected cards** immediately (debit & credit).
-2. Discuss delivery preference for each card (home vs. branch pick-up).
-3. Explain emergency cash options provided by the credit-card partner.
-4. Summarize next steps and confirm completion.
-
----
-
 ## 9 E-Banking Login Locked
 
 _(“Too many wrong passwords” – friendly caller)_
 
-1. **Verify identity** – name + DOB + address (see §1).
+1. **Verify identity** – name + date of birth + address (see §1).
 2. **Unlock the contract** in the core system.
 3. **Password-reset method**
    - **Default:** one-time SMS code (arrives within 10 minutes, free of cost).
-   - **Optional:** postal starter-password letter (≈ 3 business days, free of cost).
+   - **Optional:** postal starter-password letter (≈ 2 business days, free of cost).
 4. Remind the customer to **change the initial password at first login**.
 5. Close with a friendly recap and offer further help.
 
@@ -131,7 +131,7 @@ _(“Too many wrong passwords” – friendly caller)_
 | Item                 | Value             |
 | -------------------- | ----------------- |
 | Reset fee            | CHF 0             |
-| Letter delivery time | ≈ 3 business days |
+| Letter delivery time | ≈ 2 business days |
 | Temporary access     | SMS code accepted |
 
 ---
@@ -144,11 +144,12 @@ _Customer moves from abroad to Country of origin and holds a mortgage._
 2. **Collect mandatory documents** (simple copy is sufficient):
    - Local residence confirmation **and**
    - Copy of residence permit _or_ foreign passport
+   - Need to be sent to bank branch
 3. **Tax & reporting update**
    - New tax residence → send/request completed **FATCA / CRS forms** before the address can be saved.
 4. **Mortgage involvement**
    - Forward the case to the **Mortgage Help-desk** or ask the customer to call them; the address is updated only after their confirmation.
-5. Note any fees or pending documents in the CRM and confirm next steps with the customer.
+5. Restate any fees or pending documents and confirm next steps with the customer.
 
 ---
 
