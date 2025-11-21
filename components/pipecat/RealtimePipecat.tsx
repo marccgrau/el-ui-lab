@@ -88,7 +88,7 @@ function ProlificBanner({ code }: { code: string }) {
       <p className='text-center max-w-md'>
         You are done with the experiment. You can close this window now.
         <br />
-        Make sure to copy your Prolific code below:
+        Make sure to copy your code below to get back to the survey:
       </p>
 
       <div className='flex items-center gap-4'>

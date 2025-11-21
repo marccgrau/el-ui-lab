@@ -45,7 +45,7 @@
 
 ## 3 Legal Guardianship / Custodianship
 
-1. On first notification, immediately **freeze the account** (same as Section 6).
+1. On first notification, immediately **freeze the account**.
 2. Request written proof of guardianship to be sent.
 3. Inform that once proof is received, records are updated and the lift is unfrozen.
 4. Repeat the process if the guardian changes.
@@ -54,12 +54,12 @@
 
 ## 4 Lost / Stolen Card
 
-1. **Verify identity** (see Section 1).
+1. **Verify identity**.
 2. Confirm which card type is affected (debit, credit, or both).
 3. Immediately **permanently block** the card.
    - Do **not** use temporary blocks for lost cards.
 4. Reassure the customer that no further transactions are possible.
-5. Ask whether they would like a replacement card (see Section 7).
+5. Ask whether they would like a replacement card.
 
 ---
 
@@ -118,7 +118,7 @@ _Example – wants CHF 60 000 but free limit is CHF 50 000 / month._
 
 _(“Too many wrong passwords” – friendly caller)_
 
-1. **Verify identity** – name + date of birth + address (see §1).
+1. **Verify identity** – name + date of birth + address.
 2. **Unlock the contract** in the core system.
 3. **Password-reset method**
    - **Default:** one-time SMS code (arrives within 10 minutes, free of cost).
